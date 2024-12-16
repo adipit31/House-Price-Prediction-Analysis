@@ -64,7 +64,8 @@ This analysis includes a variety of visualizations to explore the dataset:
 
 5. **Basement Area vs SalePrice:**  
    - Scatter plot showing the impact of basement size (`TotalBsmtSF`) on `SalePrice`.
-
+     
+---
 
 ## Insights
 
